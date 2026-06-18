@@ -1,0 +1,7 @@
+WORLD:
+   C_d=0.004699999999999999
+    gravity=245.25
+    mass=1000
+INITIAL CONDITIONS:
+   position=[ 50. 150.]
+   velocity=[200. 100.]

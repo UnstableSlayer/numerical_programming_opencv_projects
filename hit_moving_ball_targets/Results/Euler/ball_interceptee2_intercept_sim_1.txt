@@ -1,0 +1,17 @@
+Initializing shooting method: [0 0], [400.         148.04868914]
+    real target position: [400.         148.04868914],  estimated target position:[399.99902292 148.0486302 ]
+    guessed initial velocity: [400.39479582  98.75036939],  end velocity when shot ball meets target:[399.59136834 197.58982449]
+    Error:
+        estimation method:
+            position error: 1.3877787807814457e-17,
+            velocity error: 0.0,
+        shooting method: 0.0009788606642216738
+
+Target hit error: 1.034137268188357
+WORLD:
+    C_d=0.004699999999999999
+   esitmated gravity=98.54079017582455
+   estimated_mass=100
+SHOOTING_METHOD:
+   shot_after=2 sec
+TARGET HIT:    True

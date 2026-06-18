@@ -1,0 +1,136 @@
+Bouncing Ball Animation:
+        Gravity: 9.81000, C_d: 0.47000,
+        Shot ball mass: 5, Shot ball radius: 0.05, Shot from pos: [0, 0], max_dt=0.05
+
+Ball with ID 0: 
+Initializing shooting method: [0 0], [5.8  5.63]
+    real target position: [5.8  5.63],  estimated target position:[5.79997438 5.6290224 ]
+    guessed initial velocity: [ 6.07514061 10.84727521],  end velocity when shot ball meets target:[5.52994302 0.5081471 ]
+    Error:
+        estimation method:
+            position error: 4.336808689942018e-19,
+            velocity error: 4.336808689942018e-19,
+        shooting method: 0.000977940333288814
+
+Ball with ID 1: 
+Initializing shooting method: [0 0], [4.79 4.84]
+    real target position: [4.79 4.84],  estimated target position:[4.79002936 4.83905705]
+    guessed initial velocity: [ 5.01728111 10.01983181],  end velocity when shot ball meets target:[ 4.56701835 -0.24503956]
+    Error:
+        estimation method:
+            position error: 0.0,
+            velocity error: 4.336808689942018e-19,
+        shooting method: 0.0009434052321738052
+
+Ball with ID 2: 
+Initializing shooting method: [0 0], [5.87 3.43]
+    real target position: [5.87 3.43],  estimated target position:[5.87002959 3.42906292]
+    guessed initial velocity: [6.14851942 8.5429438 ],  end velocity when shot ball meets target:[ 5.59673664 -1.58938812]
+    Error:
+        estimation method:
+            position error: 4.336808689942018e-19,
+            velocity error: 0.0,
+        shooting method: 0.0009375504684004613
+
+Ball with ID 3: 
+Initializing shooting method: [0 0], [1.53 2.14]
+    real target position: [1.53 2.14],  estimated target position:[1.53006201 2.13905199]
+    guessed initial velocity: [1.60265222 7.19173132],  end velocity when shot ball meets target:[ 1.45882639 -2.81933957]
+    Error:
+        estimation method:
+            position error: 2.168404344971009e-19,
+            velocity error: 0.0,
+        shooting method: 0.0009500336435892734
+
+Ball with ID 4: 
+Initializing shooting method: [0 0], [3.13 2.24]
+    real target position: [3.13 2.24],  estimated target position:[3.12999561 2.23902154]
+    guessed initial velocity: [3.27849094 7.29644368],  end velocity when shot ball meets target:[ 2.98427135 -2.72402434]
+    Error:
+        estimation method:
+            position error: 2.168404344971009e-19,
+            velocity error: 2.168404344971009e-19,
+        shooting method: 0.0009784740505327909
+
+Ball with ID 5: 
+Initializing shooting method: [0 0], [6.85 2.16]
+    real target position: [6.85 2.16],  estimated target position:[6.85006801 2.15900647]
+    guessed initial velocity: [7.17505348 7.21263249],  end velocity when shot ball meets target:[ 6.53114708 -2.80031412]
+    Error:
+        estimation method:
+            position error: 2.168404344971009e-19,
+            velocity error: 2.168404344971009e-19,
+        shooting method: 0.000995856428321639
+
+Ball with ID 6: 
+Initializing shooting method: [0 0], [5.35 1.88]
+    real target position: [5.35 1.88],  estimated target position:[5.34997561 1.8790161 ]
+    guessed initial velocity: [5.6037927  6.91935863],  end velocity when shot ball meets target:[ 5.10089499 -3.06726888]
+    Error:
+        estimation method:
+            position error: 0.0,
+            velocity error: 2.168404344971009e-19,
+        shooting method: 0.0009842032614884968
+
+Ball with ID 7: 
+Initializing shooting method: [0 0], [0.97 1.46]
+    real target position: [0.97 1.46],  estimated target position:[0.96995641 1.45903859]
+    guessed initial velocity: [1.01597372 6.47945627],  end velocity when shot ball meets target:[ 0.92479782 -3.46769336]
+    Error:
+        estimation method:
+            position error: 1.0842021724855044e-19,
+            velocity error: 0.0,
+        shooting method: 0.0009623995115160902
+
+Ball with ID 8: 
+Initializing shooting method: [0 0], [5.9  0.88]
+    real target position: [5.9  0.88],  estimated target position:[5.8990165  0.87992924]
+    guessed initial velocity: [6.17888155 5.87287243],  end velocity when shot ball meets target:[ 5.624374   -4.01984092]
+    Error:
+        estimation method:
+            position error: 5.421010862427522e-20,
+            velocity error: 4.336808689942018e-19,
+        shooting method: 0.0009860427681537473
+
+Ball with ID 9: 
+Initializing shooting method: [0 0], [7.48 0.81]
+    real target position: [7.48 0.81],  estimated target position:[7.47903039 0.81002282]
+    guessed initial velocity: [7.8338555  5.79964947],  end velocity when shot ball meets target:[ 7.13082665 -4.08649268]
+    Error:
+        estimation method:
+            position error: 4.336808689942018e-19,
+            velocity error: 0.0,
+        shooting method: 0.000969880954544243
+
+Ball with ID 10: 
+Initializing shooting method: [0 0], [3.81 0.77]
+    real target position: [3.81 0.77],  estimated target position:[3.80998572 0.76904307]
+    guessed initial velocity: [3.99074158 5.75672553],  end velocity when shot ball meets target:[ 3.63260292 -4.12556452]
+    Error:
+        estimation method:
+            position error: 0.0,
+            velocity error: 4.336808689942018e-19,
+        shooting method: 0.0009570353745825368
+
+Ball with ID 11: 
+Initializing shooting method: [0 0], [1.59 0.31]
+    real target position: [1.59 0.31],  estimated target position:[1.590002   0.30900684]
+    guessed initial velocity: [1.66543593 5.27486395],  end velocity when shot ball meets target:[ 1.51597574 -4.56418269]
+    Error:
+        estimation method:
+            position error: 1.0842021724855044e-19,
+            velocity error: 4.336808689942018e-19,
+        shooting method: 0.0009931629265313156
+
+Ball with ID 0 result: HIT, pos:[5.81138445 5.84540289], target: [5.8  5.63], error: 0.21570352425348277
+Ball with ID 1 result: HIT, pos:[4.7994526  5.05388348], target: [4.79 4.84], error: 0.21409225524219508
+Ball with ID 2 result: HIT, pos:[5.88157747 3.64111552], target: [5.87 3.43], error: 0.211432728340308
+Ball with ID 3 result: HIT, pos:[1.53307204 2.3485668 ], target: [1.53 2.14], error: 0.20858942563534916
+Ball with ID 4 result: HIT, pos:[3.13615313 2.44873301], target: [3.13 2.24], error: 0.20882368528258663
+Ball with ID 5 result: HIT, pos:[6.86354389 2.36856053], target: [6.85 2.16], error: 0.20899984089601775
+Ball with ID 6 result: HIT, pos:[5.36050041 2.08801935], target: [5.35 1.88], error: 0.2082842024277472
+Ball with ID 7 result: HIT, pos:[0.97186456 1.66721563], target: [0.97 1.46], error: 0.20722402336840756
+Ball with ID 8 result: HIT, pos:[5.91062141 1.08696702], target: [5.9  0.88], error: 0.20723938583871318
+Ball with ID 9 result: HIT, pos:[7.49374359 1.01692309], target: [7.48 0.81], error: 0.2073790002593175
+Ball with ID 10 result: HIT, pos:[3.81748095 0.97586272], target: [3.81 0.77], error: 0.20599859845008914
+Ball with ID 11 result: HIT, pos:[1.59312995 0.51492147], target: [1.59 0.31], error: 0.20494537442689617
